@@ -1,8 +1,5 @@
+package clases;
 
-
-/**
- * Created by vacax on 11/28/14.
- */
 public class Usuario {
 
     private String usuario;
